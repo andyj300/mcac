@@ -1,2 +1,2 @@
-# mcac
-Magna Carta Arts Centre Info
+# Magna Carta Arts Centre
+The unofficial techy guide
