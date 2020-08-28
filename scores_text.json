@@ -1,0 +1,28 @@
+{
+    "mydata" : {
+        "block-a" : {
+            "text-1" : {
+              "option-0": "Dude",
+              "option-1": "Awesome",
+              "option-2": "Bogus",
+              "option-3": "WTF",
+              "option-4": "Strange"
+            },
+            "title" : "Click bait stinks",
+            "subtitle" : "I've got nothing!"
+        },
+        "block-b" : {
+            "text-1" : {
+              "option-0": "Dude",
+              "option-1": "Awesome",
+              "option-2": "Bogus",
+              "option-3": "WTF",
+              "option-4": "Strange"
+            },
+            "title" : "Thought of something new",
+            "subtitle" : "Still have nothing.",
+            "graphic" : "./images/fielname.png"
+        }
+    }
+
+}
